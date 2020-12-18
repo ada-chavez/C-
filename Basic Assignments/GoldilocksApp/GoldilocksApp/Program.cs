@@ -7,40 +7,65 @@ namespace GoldilocksApp
     {
         static void Main()
         {
-            Console.WriteLine("How does Goldilocks like her porridge: cold, hot, or warm?");
-            string porridgeTemp = Console.ReadLine();
-            
-            // Set guess to True when porridgeTemp is "warm"
-            bool guess = porridgeTemp == "warm";
+            // initializes program game to start
+            bool game = true;
 
-            // Do while statment. Do this while porridgeTemp is not "warm"
             do
             {
-                switch (porridgeTemp)
+                Console.WriteLine("Would you like to play? Enter yes or no");
+                string answer = Console.ReadLine();
+                if (answer == "yes")
                 {
-                    case "cold":
-                        Console.WriteLine("Ew she doesn't want cold gummy porridge.\nTry again!");
-                        porridgeTemp = Console.ReadLine();
-                        break;
+                        Console.WriteLine("\nHow does Goldilocks like her porridge: cold, hot, or warm?");
+                        string porridgetemp = Console.ReadLine();
 
-                    case "hot":
-                        Console.WriteLine("Oh this porridge is much too hot! She may burn her tongue.\nTry again!");
-                        porridgeTemp = Console.ReadLine();
-                        break;
+                        bool guess = porridgetemp == "warm";
 
-                    case "warm":
-                        Console.WriteLine("Oh warm porridge is just right! Now maybe there's a bed she can find to nap in...");                                           
-                        break;
+                        while (!guess)
+                        {
+                            switch (porridgetemp)
+                            {
+                                case "cold":
+                                    Console.WriteLine("\nEw she doesn't want cold gummy porridge.\nTry again!");
+                                    porridgetemp = Console.ReadLine();
+                                    break;
 
-                    default:
-                        Console.WriteLine("Oops! Please enter one of the porridge choices: \n\"cold\" \"hot\" or \"warm\"");
-                        porridgeTemp = Console.ReadLine();
-                        break;
+                                case "hot":
+                                    Console.WriteLine("\nThis porridge is much too hot! she may burn her tongue.\nTry again!");
+                                    porridgetemp = Console.ReadLine();
+                                    break;
+
+                                case "warm":
+                                    Console.WriteLine("\nOh, warm porridge is just right! Now maybe there's a bed she can find to nap in.");
+                                    Console.ReadLine();
+                                    // when guess is true it gets out of the while loop.
+                                    guess = true;
+                                    break;
+
+                                default:
+                                    Console.WriteLine("\nOops! Please enter one of the porridge choices: \n\"cold\" \"hot\" or \"warm\"");
+                                    porridgetemp = Console.ReadLine();
+                                    break;
 
 
+                            }
+
+                        }                  
                 }
-            }
-            while (!guess);
+                else if (answer == "no")
+                {
+                    Console.WriteLine("\nThank you! Goodbye!");
+                    // when game is false it gets out of the do while loop
+                    game = false;
+                }
+                else
+                {
+                    Console.WriteLine("Oops! That is not a valid answer. \nExiting program. Goodbye!");
+                    game = false;
+                }
+
+            } while (game);
+     
             Console.Read();
         }
     }
