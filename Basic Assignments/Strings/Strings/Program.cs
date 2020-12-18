@@ -25,10 +25,10 @@ namespace Strings
             StringBuilder sb = new StringBuilder();
 
             sb.Append("Paragraphs are the building blocks of papers.");
-            sb.Append("Many students define paragraphs in terms of length:");
-            sb.Append("a paragraph is a groupd of at least five sentences, a paragraph is alf a page long, etc.");
+            sb.Append(" Many students define paragraphs in terms of length:");
+            sb.Append(" a paragraph is a groupd of at least five sentences, a paragraph is half a page long, etc.");
             sb.Append("\nIn reality, though, the unity and coherence of ideas amoung sentences is what constitutes a paragraph.");
-            sb.Append("A paragraph is defined as \"a group of sentences or a single sentence that forms a unit\" (Lunsford and Connors 116).");
+            sb.Append(" A paragraph is defined as \"a group of sentences or a single sentence that forms a unit\" (Lunsford and Connors 116).");
 
             Console.WriteLine(sb);
 
