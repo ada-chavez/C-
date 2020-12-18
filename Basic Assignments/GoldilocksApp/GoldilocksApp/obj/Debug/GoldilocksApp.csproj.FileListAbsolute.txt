@@ -1,0 +1,7 @@
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\GoldilocksApp\GoldilocksApp\bin\Debug\GoldilocksApp.exe.config
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\GoldilocksApp\GoldilocksApp\bin\Debug\GoldilocksApp.exe
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\GoldilocksApp\GoldilocksApp\bin\Debug\GoldilocksApp.pdb
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\GoldilocksApp\GoldilocksApp\obj\Debug\GoldilocksApp.csprojAssemblyReference.cache
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\GoldilocksApp\GoldilocksApp\obj\Debug\GoldilocksApp.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\GoldilocksApp\GoldilocksApp\obj\Debug\GoldilocksApp.exe
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\GoldilocksApp\GoldilocksApp\obj\Debug\GoldilocksApp.pdb
