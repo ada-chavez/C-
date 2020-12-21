@@ -5,3 +5,10 @@ C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\ForLoop\ForLoop\ob
 C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\ForLoop\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
 C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\ForLoop\ForLoop\obj\Debug\ForLoop.exe
 C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\ForLoop\ForLoop\obj\Debug\ForLoop.pdb
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\ForLoop\ForLoop\bin\Debug\ForLoop.exe.config
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\ForLoop\ForLoop\bin\Debug\ForLoop.exe
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\ForLoop\ForLoop\bin\Debug\ForLoop.pdb
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\ForLoop\ForLoop\obj\Debug\ForLoop.csprojAssemblyReference.cache
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\ForLoop\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\ForLoop\ForLoop\obj\Debug\ForLoop.exe
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\ForLoop\ForLoop\obj\Debug\ForLoop.pdb

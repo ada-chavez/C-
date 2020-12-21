@@ -23,21 +23,21 @@ namespace ForLoop
              
              ***********************************************************/
 
-            string[] people = { "Lilly likes to ", "Ava will reluctantly ", "Simon loves to ", "Xavier doesn't like to " };
+            //string[] people = { "Lilly likes to ", "Ava will reluctantly ", "Simon loves to ", "Xavier doesn't like to " };
 
-            Console.WriteLine("Enter a verb: ");
-            string userValue = Console.ReadLine();
+            //Console.WriteLine("Enter a verb: ");
+            //string userValue = Console.ReadLine();
 
-            for (int i = 0; i < people.Length; i++)
-            {
-                people[i] = people[i] + userValue;
-            }
+            //for (int i = 0; i < people.Length; i++)
+            //{
+            //    people[i] = people[i] + userValue;
+            //}
 
-            for (int j = 0; j < people.Length; j++)
-            {
-                Console.WriteLine(people[j]);
-            }
-            Console.ReadLine();
+            //for (int j = 0; j < people.Length; j++)
+            //{
+            //    Console.WriteLine(people[j]);
+            //}
+            //Console.ReadLine();
 
             /************************************************************
              PART TWO:
@@ -146,33 +146,33 @@ namespace ForLoop
 
              ***********************************************************/
 
-            //list<string> animals = new list<string>() { "cat", "dog", "bird", "cow", "sheep", "cat" };
+            List<string> animals = new List<string>() { "cat", "dog", "bird", "cow", "sheep", "cat" };
 
-            //console.writeline("here is a list of animals: ");
-            //foreach (string animal in animals)
-            //{
-            //    console.writeline(animal);
-            //}
-            //console.writeline("\nenter an animal to find which indices they are in. ");
-            //string userinput = console.readline();
+            Console.WriteLine("here is a list of animals: ");
+            foreach (string animal in animals)
+            {
+                Console.WriteLine(animal);
+            }
+            Console.WriteLine("\nenter an animal to find which indices they are in. ");
+            string userinput = Console.ReadLine();
 
-            //bool onlist = animals.contains(userinput);
+            bool onlist = animals.Contains(userinput);
 
-            //if (onlist)
-            //{
-            //    for (int i = 0; i < animals.count; i++)
-            //    {
-            //        if (userinput == animals[i])
-            //        {
-            //            console.writeline("index: " + i);
-            //        }
-            //    }
-            //}
-            //else
-            //{
-            //    console.writeline("\nsorry, there is no match on the list for: " + userinput);
-            //}
-            //console.readline();
+            if (onlist)
+            {
+                for (int i = 0; i < animals.Count; i++)
+                {
+                    if (userinput == animals[i])
+                    {
+                        Console.WriteLine("index: " + i);
+                    }
+                }
+            }
+            else
+            {
+                Console.WriteLine("\nsorry, there is no match on the list for " + userinput);
+            }
+            Console.ReadLine();
 
             /************************************************************
              PART SIX:
@@ -190,11 +190,11 @@ namespace ForLoop
             //{
             //    if (duplicates.Contains(spice))
             //    {
-            //        Console.WriteLine(spice + " is in the list more than once.");
+            //        Console.WriteLine(spice + " has already been seen in the list.");
             //    }
             //    else
             //    {
-            //        Console.WriteLine(spice);
+            //        Console.WriteLine(spice + " has not been seen in the list");
             //        duplicates.Add(spice);
             //    }
 
