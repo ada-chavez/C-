@@ -1,0 +1,7 @@
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\ClassAndMethodsMath\ClassAndMethodsMath\bin\Debug\ClassAndMethodsMath.exe.config
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\ClassAndMethodsMath\ClassAndMethodsMath\bin\Debug\ClassAndMethodsMath.exe
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\ClassAndMethodsMath\ClassAndMethodsMath\bin\Debug\ClassAndMethodsMath.pdb
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\ClassAndMethodsMath\ClassAndMethodsMath\obj\Debug\ClassAndMethodsMath.csprojAssemblyReference.cache
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\ClassAndMethodsMath\ClassAndMethodsMath\obj\Debug\ClassAndMethodsMath.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\ClassAndMethodsMath\ClassAndMethodsMath\obj\Debug\ClassAndMethodsMath.exe
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\ClassAndMethodsMath\ClassAndMethodsMath\obj\Debug\ClassAndMethodsMath.pdb
