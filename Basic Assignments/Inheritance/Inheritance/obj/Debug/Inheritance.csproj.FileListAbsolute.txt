@@ -1,0 +1,7 @@
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
