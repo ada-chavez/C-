@@ -1,0 +1,7 @@
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\Generic\Generic\bin\Debug\Generic.exe.config
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\Generic\Generic\bin\Debug\Generic.exe
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\Generic\Generic\bin\Debug\Generic.pdb
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\Generic\Generic\obj\Debug\Generic.csprojAssemblyReference.cache
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\Generic\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\Generic\Generic\obj\Debug\Generic.exe
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\Generic\Generic\obj\Debug\Generic.pdb
