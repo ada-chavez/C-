@@ -10,7 +10,19 @@ namespace AbstractClass
     {
         static void Main(string[] args)
         {
-            // Instantiate Employee class
+            // Instantiate & Initialize Two Employee Class Objects
+            Employee employeeOne = new Employee() { Id = 301 };
+            Employee employeeTwo = new Employee() { Id = 303 };
+
+            // Call Overload Operator Methods
+            bool areEqual = employeeOne.Id == employeeTwo.Id;
+            bool notEqual = employeeOne.Id != employeeTwo.Id;
+
+            // Print to Console
+            Console.WriteLine("Overload Operator '=='\nDoes employee one have the same Id as employee two?\n" + areEqual);
+            Console.WriteLine("\nOverload Operator '!='\nDoes employee one NOT have the same Id as employee two Id?\n" + notEqual);
+
+            // Instantiate Employee Class
             Employee employee = new Employee();
 
             // Initialize Employee Object
