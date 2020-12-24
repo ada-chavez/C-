@@ -20,6 +20,12 @@ namespace AbstractClass
             // Call method SayName()
             employee.SayName();
 
+            // Polymorphism to create object type IQuittable
+            IQuittable quittable = new Employee();
+
+            // Call method Quit()
+            quittable.Quit();
+
             Console.ReadLine();
 
         }

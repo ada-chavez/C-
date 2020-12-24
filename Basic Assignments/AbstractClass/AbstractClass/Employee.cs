@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace AbstractClass
 {
-    // Inherit from Person Class
-   public class Employee : Person
+    // Inherit from Person Class and Quittable Interface
+   public class Employee : Person, IQuittable
     {
         // Methods
         // Implement abstract SayName() method
@@ -16,5 +16,10 @@ namespace AbstractClass
             Console.WriteLine("Name: " + FirstName + " " + LastName);
         }
 
+        // Implement Quit() method
+        public void Quit()
+        {
+            Console.WriteLine("\nQuit method called");
+        }
     }
 }

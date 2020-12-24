@@ -5,3 +5,10 @@ C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\AbstractClass\Abst
 C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
 C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
 C:\Users\Victoria\Desktop\Basic_C#_Programs\Basic Assignments\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csprojAssemblyReference.cache
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
