@@ -1,0 +1,7 @@
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\Enum\Enum\bin\Debug\Enum.exe.config
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\Enum\Enum\bin\Debug\Enum.exe
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\Enum\Enum\bin\Debug\Enum.pdb
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\Enum\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\Enum\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\Enum\Enum\obj\Debug\Enum.exe
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\Enum\Enum\obj\Debug\Enum.pdb
