@@ -1,0 +1,7 @@
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe.config
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\StructAssignment\StructAssignment\bin\Debug\StructAssignment.pdb
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csprojAssemblyReference.cache
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\StructAssignment\StructAssignment\obj\Debug\StructAssignment.exe
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\StructAssignment\StructAssignment\obj\Debug\StructAssignment.pdb
