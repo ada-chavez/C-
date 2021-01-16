@@ -1,0 +1,7 @@
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\dateTime\dateTime\bin\Debug\dateTime.exe.config
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\dateTime\dateTime\bin\Debug\dateTime.exe
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\dateTime\dateTime\bin\Debug\dateTime.pdb
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\dateTime\dateTime\obj\Debug\dateTime.csprojAssemblyReference.cache
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\dateTime\dateTime\obj\Debug\dateTime.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\dateTime\dateTime\obj\Debug\dateTime.exe
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\dateTime\dateTime\obj\Debug\dateTime.pdb
