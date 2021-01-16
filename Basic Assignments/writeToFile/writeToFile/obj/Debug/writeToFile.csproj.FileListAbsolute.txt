@@ -1,0 +1,7 @@
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\writeToFile\writeToFile\bin\Debug\writeToFile.exe.config
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\writeToFile\writeToFile\bin\Debug\writeToFile.exe
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\writeToFile\writeToFile\bin\Debug\writeToFile.pdb
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\writeToFile\writeToFile\obj\Debug\writeToFile.csprojAssemblyReference.cache
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\writeToFile\writeToFile\obj\Debug\writeToFile.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\writeToFile\writeToFile\obj\Debug\writeToFile.exe
+C:\Users\Victoria\Documents\GitHub\C-Sharp\Basic Assignments\writeToFile\writeToFile\obj\Debug\writeToFile.pdb
