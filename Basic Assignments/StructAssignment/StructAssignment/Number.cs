@@ -10,6 +10,6 @@ namespace StructAssignment
     public struct Number
     {
         // Property
-        public decimal Amount;
+        public decimal Amount { get; set;}
     }
 }

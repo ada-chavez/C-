@@ -14,7 +14,7 @@ namespace StructAssignment
             Number num1;
 
             // Asign a number to Amount
-            num1.Amount = 268;
+            num1.Amount = 268m;
 
             // Print Amount to console
             Console.WriteLine("Amount: " + num1.Amount);
